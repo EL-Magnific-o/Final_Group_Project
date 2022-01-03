@@ -9,7 +9,7 @@
 ### - Amal Alqahtani
 ### - Dhamya Alhemely
 ### - Haneen Abuallam
-### - Khalid 
+### - Khalid Alomari
 ### - Zainab Alharbi
 
 ## Project: ___

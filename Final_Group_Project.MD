@@ -43,7 +43,7 @@ We decided to call our project “Babylon”
         index page:
     1. header (logo+basket)
     2. body (list of books to purchase)
-    3. costum css 
+    3. custom css 
         
         
 

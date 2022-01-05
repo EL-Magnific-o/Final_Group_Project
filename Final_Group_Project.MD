@@ -53,13 +53,14 @@ We decided to call our project “Babylon”
         
 
 
-4. Presentation: 
+4. Presentation: Amal, Asma, Dhamya, Haneen, Khalid, Zainab 
     
     
 ---
  
 ## stretch goals++:
 1. Create a proof-of-concept token using Solana blockchain: Khalid
+
 2. checkout page:
     1. delete option for each book
     2. price for each book 

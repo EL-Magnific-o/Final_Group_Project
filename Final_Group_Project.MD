@@ -53,8 +53,8 @@ We decided to call our project “Babylon”
         
 
 4. Developing the back end of the dApp: Zinab, Dhamya, Asma
-    1. Connecting the smart contract with the dApp
-    2. Connecting the front end of the dApp with back end of the dApp 
+    1. Connecting the simple smart contract with the dApp
+    2. Connecting the front end of the dApp with the back end of the dApp 
      
         
 

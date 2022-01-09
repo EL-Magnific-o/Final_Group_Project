@@ -38,7 +38,7 @@ We decided to call our project “Babylon”
      4. write BookAvailability
 
      
-2. Writing a simple smart contract: G1
+2. Writing a simple smart contract to connecting it to the dApp: G1 
      1. write addToBlockchain Function 
      2. write getAllTransactions Function
      3. write getTransactionCount Function
